@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="action_settings">Settings</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="dice_output">Dice Output</string>
+    <string name="score">Score</string>
+    <string name="your_guess">Your Guess</string>
+</resources>
